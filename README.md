@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React-19.0.0-blue?logo=react)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-8.14.1-green?logo=mongodb)](https://www.mongodb.com/)
 
-Plataforma interativa para engajar torcedores da FURIA através de missões gamificadas, sistema de XP e recompensas exclusivas.
+Plataforma gamificada para torcedores da FURIA, onde é possível completar missões, acumular pontos, subir de nível e resgatar recompensas exclusivas. O objetivo é engajar a comunidade, incentivar a participação dos torcedores e recompensar sua paixão pelo time com experiências únicas e interativas.
 
 
 
