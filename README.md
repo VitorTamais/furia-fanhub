@@ -7,9 +7,6 @@
 
 Plataforma interativa para engajar torcedores da FURIA através de missões gamificadas, sistema de XP e recompensas exclusivas.
 
-![Preview da Plataforma](https://via.placeholder.com/800x400.png?text=Preview+da+Plataforma+FURIA+FanHub)
-
-
 
 
 ## 🚀 Funcionalidades Principais
